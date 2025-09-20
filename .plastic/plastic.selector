@@ -1,0 +1,4 @@
+repository "lab1/lab1@7972503660038@cloud"
+  path "/"
+    br "/main"
+    co "/main"
